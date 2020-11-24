@@ -1,0 +1,39 @@
+print('test')
+
+!code python
+
+
+for i in range(0,5):
+  print(i)
+
+!code python
+
+class Main {
+  public static void main(String[] args) {
+    System.out.println("test");
+  }
+}
+
+!code java
+
+package main
+import (
+  "fmt"
+  "os"
+)
+func main() {
+  fmt.Println(os.Args[1:])
+}
+
+!code go
+
+using System;
+class Hello
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World");
+    }
+}
+
+!code csharp
