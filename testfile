@@ -1,0 +1,47 @@
+import time
+print('a')
+time.sleep(30)
+print('b')
+
+!code python
+
+import time
+print('sleeping')
+time.sleep(10)
+print('done')
+
+!code python
+
+for i in range(0,10):
+  print(i)
+
+!code python
+
+class Main {
+public static void main(String[] args) {
+int x = 5;
+System.out.println(x);
+x++;
+System.out.println(x);
+System.out.println(args[0]);
+}
+}
+
+!code java 10
+
+class Main {
+public static void main(String[] args) {
+int x = 5;
+System.out.println(x);
+x++;
+System.out.println(x);
+}
+}
+
+!code java 1
+
+package main
+import "fmt"
+func main() { fmt.Println("test"); }
+
+!code go
